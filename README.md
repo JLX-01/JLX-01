@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Xiaoxuan Li
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning computer science this course to enhance my coding and programming 
+- 🌱 I’m currently learning coding and programming 
 - 💞️ I’m looking to collaborate on big data combined with ML or DL
 - 😄 Pronouns: She/Her
 
